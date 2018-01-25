@@ -5,4 +5,4 @@ Development:
 
 25/1/2018
 -Draft code in Arduino
--Use serial monitor to check logic
+-Use serial monitor to check flow
